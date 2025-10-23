@@ -11,4 +11,4 @@ The data is a CSV with emoticons removed. Data file format has 6 fields:
 
 This dataset was pulled from Kaggle, and was not authored by me. 
 
-[https://www.kaggle.com/datasets/abhi8923shriv/sentiment-analysis-dataset?resource=download&select=train.csv](Kaggle Link)
+https://www.kaggle.com/datasets/abhi8923shriv/sentiment-analysis-dataset?resource=download&select=train.csv
